@@ -1,3 +1,5 @@
+Bu uygulama yapay zeka desteği ile hobi olarak yapılmıştır.
+
 TEFAS BES Fon Analizi
 📌 Genel Bakış
 Bu uygulama, TEFAS (Türkiye Elektronik Fon Alım Satım Platformu) üzerindeki BES (Bireysel Emeklilik Sistemi) fonlarını analiz etmenize yardımcı olur.
@@ -105,7 +107,6 @@ Manuel Kaydetme: "Ayarları Kaydet" butonu veya Dosya > Ayarları Kaydet
 
 📁 Dosyalar
 Dosya	Açıklama
-BefasNew-3.py	Ana uygulama dosyası (güncel)
 strategy_engine.py	Öngörü strateji motoru
 Fon.md	Ayarlar dosyası (fon listeleri, ağırlıklar)
 fund_cache.json	Önbellek dosyası (otomatik)
@@ -120,7 +121,5 @@ Varlık Dağılımı Görünmüyor
 TEFAS sitesinin erişilebilir olduğundan emin olun
 Skor Hesaplanamıyor
 Toplam ağırlığın 10 olduğundan emin olun (yeşil renkte gösterilmeli)
-📞 İletişim
-Sorularınız için: GitHub Issues
 
 Versiyon: 3.0 (Öngörü Motorlu) Güncelleme: 21 Şubat 2026
